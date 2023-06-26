@@ -1,0 +1,3 @@
+com\ust\admin_service\AdminServiceApplicationTests.class
+com\ust\admin_service\service\MusicServiceTest.class
+com\ust\admin_service\controller\MusicControllerTest.class

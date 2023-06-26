@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ust.admin_service.service.MusicServiceTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.124 s - in com.ust.admin_service.service.MusicServiceTest

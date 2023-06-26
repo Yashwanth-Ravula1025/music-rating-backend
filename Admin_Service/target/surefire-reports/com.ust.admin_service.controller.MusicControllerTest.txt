@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+Test set: com.ust.admin_service.controller.MusicControllerTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 5.059 s <<< FAILURE! - in com.ust.admin_service.controller.MusicControllerTest
+testDeleteMusic  Time elapsed: 0.192 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200
+ but was: 404
+	at com.ust.admin_service.controller.MusicControllerTest.testDeleteMusic(MusicControllerTest.java:167)
+
+testUpdateMusic  Time elapsed: 0.009 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200
+ but was: 404
+	at com.ust.admin_service.controller.MusicControllerTest.testUpdateMusic(MusicControllerTest.java:132)
+
+testGetById  Time elapsed: 0.009 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200
+ but was: 404
+	at com.ust.admin_service.controller.MusicControllerTest.testGetById(MusicControllerTest.java:97)
+
+testViewAllMusics_MusicServiceReturnsNoItems  Time elapsed: 0.009 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200
+ but was: 404
+	at com.ust.admin_service.controller.MusicControllerTest.testViewAllMusics_MusicServiceReturnsNoItems(MusicControllerTest.java:82)
+
+testAddAMusic  Time elapsed: 0.008 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200
+ but was: 404
+	at com.ust.admin_service.controller.MusicControllerTest.testAddAMusic(MusicControllerTest.java:51)
+
+testViewAllMusics  Time elapsed: 0.008 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200
+ but was: 404
+	at com.ust.admin_service.controller.MusicControllerTest.testViewAllMusics(MusicControllerTest.java:67)
+
